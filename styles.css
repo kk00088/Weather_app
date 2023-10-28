@@ -1,0 +1,53 @@
+*{
+    color:rgba(244, 243, 246, 0.855);
+    background-color: black;
+}
+
+
+.item{
+    color:rgb(67, 3, 3);
+    font-size: 30px;
+}
+
+
+button {
+    border: 3px solid rgb(14, 1, 1);
+    color: rgb(244, 246, 248);
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: rgb(13, 56, 91);
+}
+
+
+button:hover {
+    background-color: rgb(79, 9, 9);
+}
+
+
+.button_container button{
+    order: 3px solid rgb(239, 235, 235);
+    color: rgb(3, 54, 12);
+    background-color: rgb(35, 120, 75);
+
+}
+
+.button_container button{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.imageBox{
+    border: 10px solid rgb(24, 6, 127);
+    margin: 30px;
+    padding: auto;
+    width: 800px;
+    height: 500px;
+}
+
+.imageBox img {
+    width: 800px;
+    height: 500px;
+
+}
